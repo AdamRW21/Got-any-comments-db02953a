@@ -1,0 +1,12 @@
+input {
+    display: block;
+}
+input {
+    border-radius: 30px;
+}
+textarea:focus {
+  border: solid;
+}
+textarea:focus {
+  color: red;
+}
